@@ -1,0 +1,31 @@
+.footer {
+    margin-top: 10px;
+    background-color: rgb(127, 126, 145);
+    color: #fff;
+}
+.footer .row {
+    padding: 30px;
+}
+
+.title {
+    text-transform: uppercase;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.footer a,
+p {
+    color: #bbbbbb;
+    margin: 15px 0;
+}
+
+.footer a:hover {
+    color: #f8ecec;
+    margin: 15px 0;
+}
+
+.kengang {
+    background-color: #aaaaaa;
+    width: 90%;
+    float: left;
+}

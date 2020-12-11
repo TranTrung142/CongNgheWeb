@@ -1,0 +1,160 @@
+export const categories = [
+    {
+        title: "Áo nam",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Quần nam",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Váy nữ",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Bikini",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Hoa quả",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Máy tính",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Điện thoại di động",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Laptop",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Laptop",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Laptop",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Laptop",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Laptop",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Laptop",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Laptop",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+    {
+        title: "Laptop",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+    },
+];
+export const products = [
+    {
+        id: "1",
+        name: "Ao nam",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wV-hb1HVpDFxiauwakIwb1S3InjIIS2ZhQ&usqp=CAU",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "2",
+        name: "Ao nam",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "1",
+        name: "Ao nam",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wV-hb1HVpDFxiauwakIwb1S3InjIIS2ZhQ&usqp=CAU",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "2",
+        name: "Ao nam",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "1",
+        name: "Ao nam",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wV-hb1HVpDFxiauwakIwb1S3InjIIS2ZhQ&usqp=CAU",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "2",
+        name: "Ao nam",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "1",
+        name: "Ao nam",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wV-hb1HVpDFxiauwakIwb1S3InjIIS2ZhQ&usqp=CAU",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "2",
+        name: "Ao nam",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "1",
+        name: "Ao nam",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wV-hb1HVpDFxiauwakIwb1S3InjIIS2ZhQ&usqp=CAU",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "2",
+        name: "Ao nam",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "1",
+        name: "Ao nam",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wV-hb1HVpDFxiauwakIwb1S3InjIIS2ZhQ&usqp=CAU",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+    {
+        id: "2",
+        name: "Ao nam",
+        img: "https://os.alipayobjects.com/rmsportal/QBnOOoLaAfKPirc.png",
+        price: 1000,
+        discount: 50,
+        description: "",
+    },
+];
