@@ -5,7 +5,7 @@
 ## Hướng dẫn chạy project
 ### Hãy chắc chắn bạn đã cài môi trường đầy đủ nhé :scream:
 ```python
-> git clone 
+> git clone https://github.com/TranTrung142/CongNgheWeb.git
 > cd frontend
 > npm install
 > npm start
