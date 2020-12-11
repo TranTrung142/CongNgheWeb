@@ -2,7 +2,7 @@
 ## 1. Tìm hiểu thực tế về nghiệp vụ trong bài và thiết kế bản phân tích thiết kế hệ thống.
 ## 2. Bắt đầu tiến hành xây dựng base backend.
 ## 3. Bắt đầu tiến hành xây dựng base frontend.
-## 2. Hướng dẫn chạy project
+## Hướng dẫn chạy project
 ### Hãy chắc chắn bạn đã cài môi trường đầy đủ nhé :scream:
 ```python
 > git clone 
